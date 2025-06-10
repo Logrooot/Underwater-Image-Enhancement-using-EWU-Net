@@ -37,9 +37,7 @@ Both datasets offer diverse underwater scenes under various lighting and water c
     ```
 
 2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+    
 
 3. Download datasets and place them accordingly.
 
